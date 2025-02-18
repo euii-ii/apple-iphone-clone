@@ -34,7 +34,7 @@ This project is a clone of the Apple iPhone website built using modern web techn
 ## 📌 Installation & Setup
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/euii-ii/apple-iphone-clone.git
    ```
 
 2. **Navigate to Project Directory:**
