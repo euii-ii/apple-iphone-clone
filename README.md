@@ -73,8 +73,7 @@ The design replicates Apple's official website, including its clean UI, smooth a
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
 
 ## 📜 License
-This project is for educational purposes only and is not affiliated with Apple Inc.
-
+This project is licensed under the MIT License.
 ---
 Enjoy coding! 🚀
 
